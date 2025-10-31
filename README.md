@@ -1,4 +1,4 @@
-```markdown
+
 # FHE-based Identity Provider (IdP) for Web2 & Web3 Integration
 
 Transforming digital identity management, this project is an innovative, decentralized identity provider (IdP) that leverages **Zama's Fully Homomorphic Encryption (FHE) technology** to protect user identity attributes. By enabling secure single sign-on (SSO) across both Web2 platforms and Web3 decentralized applications, it ensures users can validate necessary attributes without unnecessary data exposure.
